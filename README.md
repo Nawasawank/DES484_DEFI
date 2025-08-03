@@ -129,4 +129,5 @@ To run all tests:
 ```bash
 npx hardhat test
 ```
-video: https://www.youtube.com/watch?v=rKbrAa2_9g8
+video for presentation and demo app: https://www.youtube.com/watch?v=rKbrAa2_9g8
+
