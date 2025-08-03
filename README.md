@@ -129,3 +129,4 @@ To run all tests:
 ```bash
 npx hardhat test
 ```
+video: https://www.youtube.com/watch?v=rKbrAa2_9g8
